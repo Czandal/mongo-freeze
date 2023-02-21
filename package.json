@@ -1,0 +1,17 @@
+{
+  "name": "mongo-freeze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Czandal",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  },
+  "volta": {
+    "node": "18.12.1"
+  }
+}
